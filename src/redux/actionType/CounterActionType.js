@@ -1,0 +1,2 @@
+export const INCREASE_COUNT = 'SAYI_ARTTIR';
+export const DECREASE_COUNT = 'SAYI_AZALT';
